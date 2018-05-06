@@ -1,5 +1,4 @@
 import unittest
-import time
 
 
 class Temp(unittest.TestCase):
